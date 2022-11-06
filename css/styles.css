@@ -1,0 +1,23 @@
+
+body {background-color:#D2DAFF;
+      text-align: center;}
+ hr {
+    border-width: 5px;
+    width:30%;
+    height:0px;
+    border-color: grey;
+    border-style: dotted none none;
+    margin: auto;
+   }
+img{ width:250px;
+     height:300px;
+    text-align: center;
+}
+
+thead{background-color:#000080;color: #F5FFFA;}
+.Resume{
+margin: auto;
+}
+.xxx{
+  margin: auto;
+}
